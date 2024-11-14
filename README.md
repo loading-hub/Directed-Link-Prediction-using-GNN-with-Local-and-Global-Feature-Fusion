@@ -13,3 +13,7 @@ Pytorch , Numpy , Networkx, PyTorch Geometric
 Training
 
 python Main.py
+
+Acknowlegdements
+
+Part of code borrow from https://github.com/LeiCaiwsu/LGLP and https://github.com/flyingtango/DiGCL. Thanks for their excellent work!
