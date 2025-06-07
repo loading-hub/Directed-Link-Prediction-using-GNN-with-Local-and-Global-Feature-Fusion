@@ -12,6 +12,8 @@ train.py
 
 
 If you use this repository in your work, please cite the corresponding DOI: 10.1109/TNSE.2024.3498434
+
+
 @ARTICLE{10763430,
   author={Zhang, Yuyang and Shen, Xu and Xie, Yu and Wong, Ka-Chun and Xie, Weidun and Peng, Chengbin},
   journal={IEEE Transactions on Network Science and Engineering}, 
